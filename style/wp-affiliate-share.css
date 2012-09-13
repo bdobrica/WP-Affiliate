@@ -1,0 +1,22 @@
+.wp-affiliate-button { cursor: pointer; }
+.wp-affiliate-content { clear: both; margin: 10px; position: relative; }
+.wp-affiliate-content p { margin: 3px 0 5px; }
+.wp-affiliate-box { }
+.wp-affiliate-left { float: left; width: 220px; border-radius: 3px; padding: 5px; text-align: center; }
+.wp-affiliate-right { float: right; width: 220px; border-radius: 3px; padding: 5px; text-align: center; }
+#wp-affiliate-shadow { position: absolute; background: #000; width: 0; height: 0; border: 0; top: 0; left: 0; }
+#wp-affiliate-window * { font-size: 9pt; }
+#wp-affiliate-window { position: absolute; left: 50%; width: 500px; margin-left: -250px; top: 50px; background: #fff; border: 2px solid #ccc;  z-index: 9999; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 3px; display: none; box-shadow: 3px 3px 5px #000; }
+.wp-affiliate-close { position: absolute; z-index: 9999; right: 0; top: 0; cursor: pointer; }
+.wp-affiliate-login,
+.wp-affiliate-register { cursor: pointer; }
+.wp-affiliate-url { height: 32px; line-height: 32px; border-radius: 3px; border: 1px solid #ccc; width: 100%; font-size: 16pt!important; }
+.wp-affiliate-box form { width: 260px; margin-left: 105px; }
+.wp-affiliate-box form label { font-size: 14pt!important; font-weight: bold; }
+.wp-affiliate-box form a { font-size: 14pt!important; font-weight: bold; text-decoration: none; color: #c00; }
+.wp-affiliate-box form input[type="text"],
+.wp-affiliate-box form input[type="password"] { height: 32px; line-height: 32px; font-size: 16pt!important; }
+.wp-affiliate-box form input[type="button"] { height: 32px; line-height: 32px; font-size: 16pt!important; font-weight: bold; color: #c00; }
+.wp-affiliate-inline { text-align: center; clear: both; height: 64px; margin: 0 auto; width: 250px; border: 1px solid #ccc; border-radius: 3px; }
+.wp-affiliate-inline img { float: left; }
+.wp-affiliate-inline span { display: block; font-size: 13pt; line-height: 24px; float: right; width: 170px; margin-top: 10px; margin-right: 5px; font-weight: bold; }

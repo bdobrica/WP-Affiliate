@@ -1,0 +1,10 @@
+.wp-afl-products { width: 100%; }
+.wp-afl-products li { float: left; width: 33%; }
+.wp-afl-products label { font-size: 7pt; }
+.wp-afl-content ul li { list-style-type: square; margin-left: 15px; }
+
+.wp-afl-excerpt { clear: both; width: 500px; }
+.wp-afl-excerpt * { font-weight: bold; font-size: 11pt; }
+.wp-afl-excerpt p { clear: both; line-height: 20px; border-bottom: 1px solid #eee; }
+.wp-afl-excerpt span { display: block; width: 16px; height: 16px; float: left; margin-right: 10px; background: #c00; }
+.wp-afl-excerpt strong { display: block; width: 64px; height: 16px; float: right; }
